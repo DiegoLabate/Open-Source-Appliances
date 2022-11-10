@@ -2,7 +2,7 @@
 Make a society sustainable with open source appliances
 
 This logo represents the idea to promote, design and develop open source appliances. Designed for the first time 
-by Diego Labate, the logo is property of Leebera Ltd, derived from OSHW logo 
+by Diego Labate, the logo is property of Leebera Ltd. It is derived from OSHW logo 
 (https://www.oshwa.org/open-source-hardware-logo/) and released under license CC SA 
 (https://creativecommons.org/licenses/by-sa/3.0/it/deed.en).
 
