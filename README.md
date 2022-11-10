@@ -7,7 +7,7 @@ by Diego Labate, the logo is property of Leebera Ltd. It is derived from OSHW lo
 (https://creativecommons.org/licenses/by-sa/3.0/it/deed.en).
 
 Leebera is the first company that started developing fixable appliances by design releasing open source software 
-and hardware to the community. Leebera mission is to contribute make a sustainable society. 
+and hardware to the community. Leebera mission is to contribute make a sustainable society. Please see https://github.com/DiegoLabate/Leebera-Project 
 
 ![g200439](https://user-images.githubusercontent.com/92993315/201169568-4b13aa2e-9733-49a6-a137-104a35650db6.png)
 
