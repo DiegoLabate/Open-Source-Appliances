@@ -1,5 +1,8 @@
 # Open-Source-Appliances
 
+![Open source appliances logo](https://user-images.githubusercontent.com/92993315/204028608-e7ab2e29-21d8-44e2-969c-010b3d012c33.png)
+
+
 This logo represents the idea to promote, design and develop open source appliances. Designed for the first time 
 by Diego Labate, the logo is property of the Leebera project. It is derived from OSHW logo 
 (https://www.oshwa.org/open-source-hardware-logo/) and released under license CC SA 
