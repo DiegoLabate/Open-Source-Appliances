@@ -10,7 +10,7 @@ by Diego Labate, the logo is property of the Leebera project. It is derived from
 
 Leebera mission is to contribute to make a more sustainable world, facing with planned obsolescence and e-waste problem. Please see https://github.com/DiegoLabate/Leebera-Project 
 
-For collaboration and info please write to info@leebera.com.
+We are searching a co-founder. For collaboration and info please write to: info@leebera.com.
 
 ![g200439](https://user-images.githubusercontent.com/92993315/201169568-4b13aa2e-9733-49a6-a137-104a35650db6.png)
 
