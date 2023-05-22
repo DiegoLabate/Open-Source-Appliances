@@ -1,4 +1,4 @@
-# Open-Source-Appliances
+# Open Source Appliances Logo
 
 ![Open source appliances logo](https://user-images.githubusercontent.com/92993315/204028608-e7ab2e29-21d8-44e2-969c-010b3d012c33.png)
 
